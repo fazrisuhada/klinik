@@ -1,0 +1,5 @@
+INSERT INTO "patients" ("id", "name", "dob", "gender", "phone_number", "created_at", "updated_at") VALUES (2, 'Randi Ramadhan', '1990-11-10', 'Male', '08221192811', '2025-05-24 13:29:31', '2025-05-24 13:29:31');
+INSERT INTO "patients" ("id", "name", "dob", "gender", "phone_number", "created_at", "updated_at") VALUES (3, 'Siti Rahma', '2000-02-01', 'Female', '08221192810', '2025-05-24 13:29:56', '2025-05-24 13:29:56');
+INSERT INTO "patients" ("id", "name", "dob", "gender", "phone_number", "created_at", "updated_at") VALUES (4, 'Ilham Saputra', '1992-09-10', 'Male', '082211928123', '2025-05-24 13:30:26', '2025-05-24 13:30:26');
+INSERT INTO "patients" ("id", "name", "dob", "gender", "phone_number", "created_at", "updated_at") VALUES (5, 'Rio Rahmat', '2001-01-01', 'Male', '08221192819', '2025-05-24 13:30:48', '2025-05-24 13:30:48');
+INSERT INTO "patients" ("id", "name", "dob", "gender", "phone_number", "created_at", "updated_at") VALUES (6, 'Aurel', '1993-02-01', 'Female', '08221192345', '2025-05-24 13:31:16', '2025-05-24 13:31:16');
