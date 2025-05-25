@@ -1,0 +1,2 @@
+INSERT INTO "examinations" ("id", "patient_id", "blood_pressure", "weight", "complaint", "diagnosis", "nurse_id", "doctor_id", "created_at", "updated_at") VALUES (1, 6, '120/90', 61, 'Meriang', 'A.14 . Fever', 3, 2, '2025-05-25 13:29:48', '2025-05-25 13:35:49');
+INSERT INTO "examinations" ("id", "patient_id", "blood_pressure", "weight", "complaint", "diagnosis", "nurse_id", "doctor_id", "created_at", "updated_at") VALUES (2, 5, '120/70', 70, 'Panas, Nafsu makan berkurang', 'A91 . Dengue Haemoragic Fever', 3, 2, '2025-05-25 13:38:02', '2025-05-25 13:38:35');
