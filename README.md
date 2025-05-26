@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # klinik
 Assessment PHP Developer
 =======
